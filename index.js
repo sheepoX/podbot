@@ -7,7 +7,7 @@ const parse = require('csv-parse');
 const csvWriter = require('csv-write-stream');
 
 //Discord Tokens
-const TOKEN = 'MzQwMjEwOTY2MjAzNzI3ODcy.DFvOJg.h7n_xsoFFknZ_Y0JGgYO4E84q7I';
+const TOKEN = 'bot_token';
 const CONTROLLER_IDS = [];
 
 //Globals
